@@ -1,4 +1,3 @@
-*.bbl
-*.xml
 notes
-*.gz
+build
+.vscode
